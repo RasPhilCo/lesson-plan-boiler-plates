@@ -115,3 +115,7 @@ Student groups present. Check for understanding and ask leading questions.
 - Wrap up / bring back to context
 - Field general questions
 - Record findings, if necessary 
+
+
+<br/><br />
+*[Lesson Plan Boilerplates](https://github.com/RasPhilCo/lesson-plan-boiler-plates)  by Philipe Navarro [@RasPhilCo](https://github.com/RasPhilCo), licensed under the [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)*

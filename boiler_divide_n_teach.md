@@ -87,3 +87,6 @@ Intro/context:
 - Field general questions
 - Share cheat-sheet with group
 
+
+<br/><br />
+*[Lesson Plan Boilerplates](https://github.com/RasPhilCo/lesson-plan-boiler-plates)  by Philipe Navarro [@RasPhilCo](https://github.com/RasPhilCo), licensed under the [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)*

@@ -162,3 +162,6 @@ Execute up to commit:
 - Wrap up / bring back to context
 - Field general questions
 
+
+<br/><br />
+*[Lesson Plan Boilerplates](https://github.com/RasPhilCo/lesson-plan-boiler-plates)  by Philipe Navarro [@RasPhilCo](https://github.com/RasPhilCo), licensed under the [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)*
